@@ -10,8 +10,31 @@ box-sizing: border-box;
 
 
 
+
+ /* navbar regole */
+
 header #navbar-general {
     height: 60px;
     width: 100%;
     background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+#navbar-left {
+    height: 100%;
+    width: 430px;
+    background-color: purple;
+
+}
+
+
+#navbar-right{
+    height: 100%;
+    width: 430px;
+    background-color: purple;
+
+
 }
