@@ -175,7 +175,7 @@ font-family: sans-serif;
 }
 
 #buttons-fatturazione{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding: 50px 0px;
 }
 
@@ -191,9 +191,17 @@ font-family: sans-serif;
 
 width: 100%;
 height: 700px;
-border: 1px solid black;
+/* border: 1px solid #E5E5E6; */
+display: flex;
+gap: 40px;
 
 
+}
+
+.dimensioni-colonne {
+    width: calc(100% / 3);
+    height: 700px;
+    border: 1px solid #000000;
 }
  
 
