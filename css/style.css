@@ -289,5 +289,15 @@ margin-bottom: 60px;
     width: calc(100% /3);
     border: 1px solid black;
     
+}
 
+
+#logos-container-left-and-right{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.four-logos {
+    width: calc(100% / 2);
+    border: 1px solid black;
 }
