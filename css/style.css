@@ -13,7 +13,7 @@ box-sizing: border-box;
 
  /* navbar regole */
 
-header #navbar-general {
+#navbar-general {
     height: 60px;
     width: 100%;
     background-color: aqua;
@@ -23,18 +23,35 @@ header #navbar-general {
 
 }
 
-#navbar-general #navbar-left {
+
+
+#navbar-left {
     height: 100%;
-    width: 430px;
+    width: 530px;
     background-color: purple;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
 
 }
 
 
-#navbar-general #navbar-right{
+#navbar-right{
     height: 100%;
-    width: 430px;
+    width: 530px;
     background-color: purple;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+#navbar-items{
+    height: 100%;
+    width: 90px;
+    background-color: violet;
+  
 
 
 }
