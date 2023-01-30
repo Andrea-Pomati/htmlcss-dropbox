@@ -23,7 +23,7 @@ header #navbar-general {
 
 }
 
-#navbar-left {
+#navbar-general #navbar-left {
     height: 100%;
     width: 430px;
     background-color: purple;
@@ -31,7 +31,7 @@ header #navbar-general {
 }
 
 
-#navbar-right{
+#navbar-general #navbar-right{
     height: 100%;
     width: 430px;
     background-color: purple;
