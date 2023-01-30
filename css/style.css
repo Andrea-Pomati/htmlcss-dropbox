@@ -152,7 +152,7 @@ font-family: sans-serif;
     margin-left: auto;
     margin-right: auto;
     max-width: 1000px;
-    height: 4000px;
+    height: auto;
     border: 1px solid black;
     margin-top: 80px;
 
@@ -262,4 +262,12 @@ margin-bottom: 60px;
     height: auto;
     border: 1px solid black;
     padding: 30px;
+}
+
+#scopri-di-più{
+    color: blue;
+    text-decoration: underline;
+    padding-top: 70px;
+    display: block;
+
 }
