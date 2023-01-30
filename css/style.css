@@ -160,9 +160,25 @@ font-family: sans-serif;
 
 }
 
+
+#contenitore-trova {
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
 #trova-il-piano{
     font-size: 40px;
-
+    border: 1px solid black;
+   
 
 }
-    
+
+#buttons-fatturazione{
+    border: 1px solid black;
+
+}
+
+
+ 
+
