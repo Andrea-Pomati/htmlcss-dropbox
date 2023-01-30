@@ -1,0 +1,17 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+
+/* regole generali pagina */
+
+
+
+header #navbar-general {
+    height: 60px;
+    width: 100%;
+    background-color: aqua;
+}
