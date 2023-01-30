@@ -253,7 +253,7 @@ margin-bottom: 60px;
     border: 1px solid black;
     display: flex;
     flex-wrap: wrap;
-
+    margin-bottom: 140px;
 
 }
 
@@ -261,4 +261,5 @@ margin-bottom: 60px;
     width: calc(100% / 3);
     height: auto;
     border: 1px solid black;
+    padding: 30px;
 }
