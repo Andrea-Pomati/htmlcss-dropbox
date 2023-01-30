@@ -301,3 +301,22 @@ margin-bottom: 60px;
     width: calc(100% / 2);
     border: 1px solid black;
 }
+
+/* fine logos-container */
+
+
+#background-blue{
+    background-color: #B4D0E7;
+    width: 100vw;
+
+}
+
+#centered-banner{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+    background-color: rgb(0, 255, 149);
+    height: 300px;
+    border: 1px solid black;
+}   
+    
