@@ -75,7 +75,8 @@ font-family: sans-serif;
     background-color: #0061FF;
     padding: 10px;
     color: white;
-
+    white-space: nowrap;
+    border: none;
 }
 
 
@@ -229,20 +230,31 @@ margin-bottom: 60px;
 }
 
 .container-colonne-interno {
-    margin-left: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
     
 
 }
 
-.rimuovi-pallini{
+.rimuovi-list-items{
     list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.acquista-ora-blu{
+    color: blue;
+    text-decoration: underline;
 }
 
 
 
+.riga-dentro-colonna{
+    width: 60px;
 
 
-
+}
 
 
 
@@ -429,7 +441,7 @@ footer{
 
 }
 
-li:first-child{
+#container-5-columns li:first-child{
     font-size: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
