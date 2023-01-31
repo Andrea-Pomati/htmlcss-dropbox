@@ -247,6 +247,7 @@ margin-bottom: 60px;
     display: flex;
     flex-direction: column;
     gap: 20px;
+    
 }
 
 .acquista-ora-blu{
@@ -258,6 +259,15 @@ margin-bottom: 60px;
 
 .riga-dentro-colonna{
     width: 60px;
+
+}
+
+.flex-font-awesome{
+    display: flex;
+}
+
+.margin-description{
+    margin-left: 10px;
 
 
 }
