@@ -101,7 +101,7 @@ font-family: sans-serif;
 
 #main-title {
     font-size: 80px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding-top: 50px;
     padding-bottom: 20px
     ;
@@ -129,6 +129,9 @@ font-family: sans-serif;
 
 }
 
+#freccia-jumbo{
+    font-size: 40px;
+}
 
 #right-section {
     max-width: 600px;
