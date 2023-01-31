@@ -441,10 +441,44 @@ margin-bottom: 60px;
 
 .four-logos {
     width: calc(100% / 2);
+    height: calc(100% / 2);
     border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+.selezionato{
+    border: 10px solid #D1E9CD;
+}
+
+#sfondo-verde{
+    background-color: #A2D39B;
+}
+
+#designit{
+    filter: invert(1);
+}
+
+
+.loghi{
+    width: 50%;
+    height: 50%;
+}
+
+
+
+
+
+
 /* fine logos-container */
+
+
+
+
+
+
+
 
 /* inizio scritta viola */
 #background-blue{
