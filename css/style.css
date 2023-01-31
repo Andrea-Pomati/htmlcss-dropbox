@@ -330,7 +330,7 @@ margin-bottom: 60px;
 #entra-in-contatto {
     height: 500px;
     width: auto;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin-bottom: 150px;
     display: flex;
 
@@ -339,18 +339,35 @@ margin-bottom: 60px;
 #img-left{
     width: 60%;
     height: 100%;
-    background-color: red;
+    /* background-color: red; */
+}
+
+#img-partner{
+    width: 100%;
+
+
 }
 
 #writing{
     width: 40%;
     height: 100%;
-    background-color: black;
+    /* background-color: black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 60px;
 
 }
 
 
-
+#trova-un-partner{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: 1px solid black;
+}
 
 
 
