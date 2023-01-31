@@ -216,7 +216,7 @@ margin-bottom: 60px;
 
 .dimensioni-colonne {
     width: calc(100% / 3);
-    height: 700px;
+    height: auto;
     border: 1px solid #000000;
 }
 
