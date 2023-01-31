@@ -467,6 +467,7 @@ margin-bottom: 60px;
 }
 /* /designit */
 
+/* asu */
 #sfondo-viola{
     background-color: #61082B;
 }
@@ -474,8 +475,18 @@ margin-bottom: 60px;
 #asu {
     filter: invert(1);
 }
+/* /asu */
 
+/* florida */
+#florida{
+    height: 40px;
+    filter: invert(1);
+}
 
+#sfondo-blu{
+ background-color:#0093CE ;   
+}
+/* /florida */
 
 
 
