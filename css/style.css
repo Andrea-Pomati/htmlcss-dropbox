@@ -218,6 +218,7 @@ margin-bottom: 60px;
     width: calc(100% / 3);
     height: auto;
     border: 1px solid #000000;
+    padding-bottom: 40px;
 }
 
 .titoli-colonne{
@@ -227,6 +228,7 @@ margin-bottom: 60px;
     justify-content: center;
     align-items: center;
     font-size: 20px;
+    margin-bottom: 40px;
 }
 
 .container-colonne-interno {
