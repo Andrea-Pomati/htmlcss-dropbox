@@ -371,9 +371,9 @@ margin-bottom: 60px;
 
 
 
-
-
 /* /entra in contatto */
+
+
 
 
 
@@ -393,9 +393,12 @@ margin-bottom: 60px;
 
 .cards-six{
     width: calc(100% / 3);
-    height: auto;
+    height: calc(100% / 2);
     border: 1px solid black;
     padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 #scopri-di-più{
@@ -406,6 +409,11 @@ margin-bottom: 60px;
     padding-bottom: 100px;
 }
 
+.img-cards{
+    height: 50%;
+
+
+}
 /* /sei elementi */
 
 
