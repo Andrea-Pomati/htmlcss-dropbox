@@ -280,11 +280,12 @@ margin-bottom: 60px;
     color: #0462FF;
 
 }
-
-
-
  
 /* fine sezione tre colonne */
+
+
+
+
 
 /* /sezione enterprise */
 
@@ -297,7 +298,23 @@ margin-bottom: 60px;
 
 }
 
+#enterprise-due-box{
+    display: flex;
+    
+}
 
+
+#colonna-enterprise{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    gap: 40px;
+    margin-left: 30px;
+}
+
+#button-enterprise{
+    margin-left: 20px;
+}
 
 /* /sezione enterprise */
 
