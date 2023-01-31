@@ -448,6 +448,12 @@ margin-bottom: 60px;
     align-items: center;
 }
 
+.loghi{
+    width: 50%;
+    height: 50%;
+}
+
+/* designit */
 .selezionato{
     border: 10px solid #D1E9CD;
 }
@@ -459,13 +465,15 @@ margin-bottom: 60px;
 #designit{
     filter: invert(1);
 }
+/* /designit */
 
-
-.loghi{
-    width: 50%;
-    height: 50%;
+#sfondo-viola{
+    background-color: #61082B;
 }
 
+#asu {
+    filter: invert(1);
+}
 
 
 
