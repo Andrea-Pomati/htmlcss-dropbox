@@ -497,6 +497,24 @@ margin-bottom: 60px;
 background-color: #FF1C1C;
 
 }
+/* /topps */
+
+/* fine loghi sinistra */
+
+
+/* bicycle */
+
+#sfondo-rosso-bycicle{
+    background-color: #D5001F;
+}
+
+#bycicle{
+    filter: invert(1);
+}
+
+
+
+
 
 
 /* fine logos-container */
