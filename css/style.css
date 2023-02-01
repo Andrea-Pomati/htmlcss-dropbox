@@ -430,10 +430,32 @@ margin-bottom: 60px;
 .container-logos-dimensions{
     width: calc(100% /3);
     border: 1px solid black;
-    
+    /* height: 500px; */
+}
+/* prova */
+
+#logos-container-centered{
+    /* height: auto;
+    width: auto; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 40px;
+    gap: 30px;
+}
+
+#riga-logo-centro{
+    width: 80px;
+    color: #ececed;
+
+}
+
+#img-centro{
+    width: 50%;
 }
 
 
+/* /prova */
 #logos-container-left-and-right{
     display: flex;
     flex-wrap: wrap;
