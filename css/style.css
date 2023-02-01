@@ -9,7 +9,21 @@ font-family: sans-serif;
 
 /* regole generali pagina */
 
+body{
+    padding-top: 60px;
+}
 
+header{
+    position: fixed;
+    left: auto;
+    right: auto;
+    width: 100%;
+    top: 0;
+    height: 60px;
+    background-color: white;
+    z-index: 1;
+    border-bottom: 1px solid lightgrey;
+}
 
 
  /* navbar regole */
