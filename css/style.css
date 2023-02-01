@@ -421,7 +421,7 @@ margin-bottom: 60px;
 
 #logos-container{
     width: 100%;
-    background-color: grey;
+    background-color: #F5F5F5;
     height: 500px;
     border: 1px solid black;
     display: flex;
