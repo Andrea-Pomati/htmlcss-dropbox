@@ -75,6 +75,12 @@ header{
    
   
 }
+
+.navbar-items:hover{
+    text-decoration: underline;
+    color: rgb(17, 0, 255);
+}
+
  /* test */
 
 
