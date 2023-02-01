@@ -526,6 +526,7 @@ background-color: #FF1C1C;
 
 /* /hearst */
 
+/* lonely */
 #sfondo-blu-scuro{
     background-color: #0D2481;
 }
@@ -533,6 +534,22 @@ background-color: #FF1C1C;
 #lonely{
     filter: invert(1);
 }
+/* lonely */
+
+/* clear */
+
+#sfondo-giallo{
+    background-color: #FFD830;
+}
+
+#clear{
+    filter: invert(1);
+
+}
+
+
+/* /clear */
+
 
 /* fine logos-container */
 
