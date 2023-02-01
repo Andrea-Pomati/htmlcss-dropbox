@@ -488,6 +488,15 @@ margin-bottom: 60px;
 }
 /* /florida */
 
+/* topps */
+#topps{
+    filter: invert(1);
+}
+
+#sfondo-rosso-topps{
+background-color: #FF1C1C;
+
+}
 
 
 /* fine logos-container */
