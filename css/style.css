@@ -78,6 +78,8 @@ header{
  /* test */
 
 
+
+
 #logo-dropbox{
    width: 100%;
    
@@ -663,7 +665,7 @@ background-color: #FF1C1C;
     margin-right: auto;
     max-width: 1000px;
     height: auto;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
     padding-top: 80px;
@@ -675,13 +677,21 @@ background-color: #FF1C1C;
 
 }
 
+#arrow-top{
+    border-bottom: none;
+}
+
 .container-p-arrow{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    border-top: 2px solid #F3F3F3;
+    border-bottom: 2px solid #F3F3F3;
     height: 60px;
+}
+
+#arrow-bottom{
+    border-top: none;
 }
 
 .fa-angle-down{
